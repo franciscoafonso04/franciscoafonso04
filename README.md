@@ -1,6 +1,6 @@
 
 [![MasterHead](https://64.media.tumblr.com/f815c83455206f1e8f7479b79a906688/tumblr_pmm0yxcBZO1wwjnmro1_1280.gif)] 
-<h1 align="center">Hi 👋, I'm Francisco Afonso</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Informatics Enthusiast | Passionate Volunteer | Student of Informatics & Computing Engineering @ FEUP</h3>
 
 <h3 align="left">Connect with me:</h3>
