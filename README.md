@@ -1,5 +1,5 @@
 
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/930428699254557419/35CEA61D2D82605E50BBA4B88EDAFC3AF40AA808/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![MasterHead](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Informatics Enthusiast | Passionate Volunteer | Student of Informatics & Computing Engineering @ FEUP</h3>
 
