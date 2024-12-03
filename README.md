@@ -1,5 +1,5 @@
 
-[![MasterHead](https://64.media.tumblr.com/f815c83455206f1e8f7479b79a906688/tumblr_pmm0yxcBZO1wwjnmro1_1280.gif)] 
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/930428699254557419/35CEA61D2D82605E50BBA4B88EDAFC3AF40AA808/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Informatics Enthusiast | Passionate Volunteer | Student of Informatics & Computing Engineering @ FEUP</h3>
 
