@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)
+![MasterHead](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Informatics Enthusiast | Passionate Volunteer | Student of Informatics & Computing Engineering @ FEUP</h3>
 
